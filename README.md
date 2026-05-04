@@ -111,4 +111,14 @@ dandelion-v2/
 
 ---
 
+---
+
+## 문서
+
+| 문서 | 설명 |
+|------|------|
+| [Troubleshooting](docs/TROUBLESHOOTING.md) | 개발 중 마주한 문제와 해결 과정 |
+
+---
+
 *학습한 내용은 각 디렉토리 README와 커밋 메시지에 기록합니다.*

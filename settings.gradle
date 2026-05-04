@@ -1,0 +1,5 @@
+rootProject.name = 'dandelion-v2'
+
+include 'eureka-server'
+include 'service-a'
+include 'service-b'
